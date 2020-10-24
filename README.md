@@ -1,4 +1,4 @@
-### Hi there, I'm Sayan  👋
+### Hi there, I'm Sayan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sayand0122/sayand0122/blob/master/assets/208593.gif">
