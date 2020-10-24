@@ -30,7 +30,7 @@
 [<img align="left" alt="SayanOtaku | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sayan-dutta-117a8a1a8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_isayandutta_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="https://www.hackerrank.com/Duke_0122"><img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
+[<img align="left" alt="Duke_0122 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 <br />
@@ -67,4 +67,5 @@
 [twitter]: https://twitter.com/SayanOtaku
 [instagram]: https://www.instagram.com/_isayandutta_/
 [linkedin]: https://www.linkedin.com/in/sayan-dutta-117a8a1a8/
+[hackerrabk]: https://www.hackerrank.com/Duke_0122/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
