@@ -4,8 +4,8 @@
 
 - 🔭 A Google Cloud developer and currently doing open source
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love play guitar 
-- 💬 Ask me anything about tech, anime except HTML😬
+- ⚡ Fun fact: I love to play guitar 
+- 💬 Ask me anything about tech & anime except HTML😬
 
 
 ### Spotify Playing 🎧
