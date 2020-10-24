@@ -30,6 +30,7 @@
 [<img align="left" alt="SayanOtaku | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sayan-dutta-117a8a1a8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_isayandutta_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.hackerrank.com/Duke_0122"><img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
 
 <br />
 <br />
@@ -61,6 +62,7 @@
 </details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
+![](https://komarev.com/ghpvc/?username=sayand0122&color=brightgreen)
 
 [twitter]: https://twitter.com/SayanOtaku
 [instagram]: https://www.instagram.com/_isayandutta_/
