@@ -10,8 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Duke Spotify Playing" width="350" />](https://open.spotify.com/playlist/3mEIxayYHzdpeYpPI5RUF9)
-
+[![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
 
 
 ### Connect with me:
