@@ -1,7 +1,7 @@
 ### Hi there, I'm Sayan  👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sayand0122/sayand0122/blob/master/assets/208593.gif">
 </div>
 
 </br>
