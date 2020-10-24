@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sayan's GitHub Stats" src="https://github-readme-stats.sayand0122.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=sayand0122)](https://github.com/sayand0122/github-readme-stats)" 
 
 </details>
 
