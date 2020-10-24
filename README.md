@@ -32,7 +32,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sayand0122&show_icons=true&theme=gruvbox)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sayand0122&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayand0122&hide_langs_below=1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
