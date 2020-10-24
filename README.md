@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=true&hide=issues)
+  ![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=true&hide=issues)
 
 </details>
 
