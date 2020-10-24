@@ -5,6 +5,7 @@
 - 🔭 A Google Cloud developer and currently doing open source
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love play guitar 
+- 💬 Ask me anything about tech, anime except HTML😬
 
 ### Connect with me:
 
@@ -31,7 +32,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=sayand0122)](https://github.com/sayand0122/github-readme-stats)" 
+  [![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=sayand0122)](https://github.com/anuraghazra/github-readme-stats)" 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayand0122&hide_langs_below=1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
