@@ -17,7 +17,6 @@
 - 💬 Ask me anything about tech & anime except HTML😬
 
 <br />
-<br />
 
 
 ### Spotify Playing 🎧
@@ -25,8 +24,6 @@
 [![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
 
 <br />
-<br />
-
 
 ### Connect with me:
 
