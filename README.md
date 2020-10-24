@@ -7,6 +7,13 @@
 - ⚡ Fun fact: I love play guitar 
 - 💬 Ask me anything about tech, anime except HTML😬
 
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-Duke.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/3mEIxayYHzdpeYpPI5RUF9)
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="SayanOtaku | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
