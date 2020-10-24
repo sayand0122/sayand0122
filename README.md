@@ -3,7 +3,6 @@
 ## I'm a Student and currently learning EVERYTHING 😂
 
 - 🔭 A Google Cloud developer and currently doing open source
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love play guitar 
 
