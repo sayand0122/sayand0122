@@ -16,12 +16,14 @@
 - ⚡ Fun fact: I love to play guitar 
 - 💬 Ask me anything about tech & anime except HTML😬
 
-
+<br />
+<br />
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
 
-
+<br />
+<br />
 ### Connect with me:
 
 [<img align="left" alt="SayanOtaku | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
