@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Duke.vercel.app/api/spotify-playing" alt="Duke Spotify Playing" width="350" />](https://open.spotify.com/playlist/3mEIxayYHzdpeYpPI5RUF9)
+[<img src="https://now-playing-	rfe6cq7z6cl9pn39k5ncrjqai.vercel.app/api/spotify-playing" alt="Duke Spotify Playing" width="350" />](https://open.spotify.com/playlist/3mEIxayYHzdpeYpPI5RUF9)
 
 
 
