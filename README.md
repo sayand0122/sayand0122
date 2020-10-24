@@ -60,6 +60,8 @@
 
 </details>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
+
 [twitter]: https://twitter.com/SayanOtaku
 [instagram]: https://www.instagram.com/_isayandutta_/
 [linkedin]: https://www.linkedin.com/in/sayan-dutta-117a8a1a8/
