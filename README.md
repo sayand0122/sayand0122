@@ -18,11 +18,6 @@
 
 <br />
 
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
-
 <br />
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
@@ -65,6 +60,15 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
 ![](https://komarev.com/ghpvc/?username=sayand0122&color=brightgreen)
+
+<br />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
+
+<br/>
+
 
 [twitter]: https://twitter.com/SayanOtaku
 [instagram]: https://www.instagram.com/_isayandutta_/
