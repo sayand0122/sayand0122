@@ -1,4 +1,4 @@
-### Hi there, I'm Sayan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+## Hi there, I'm Sayan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sayand0122/sayand0122/blob/master/assets/208593.gif">
@@ -32,7 +32,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -54,7 +54,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+   <summary>:zap: GitHub Stats</summary>
 
   ![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=false)
 
@@ -65,7 +65,7 @@
 
 <br />
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
 
