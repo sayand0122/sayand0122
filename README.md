@@ -11,10 +11,10 @@
 
 ## I'm a Student and currently learning EVERYTHING 😂
 
-- 🔭 A Google Cloud developer and currently doing open source
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar 
-- 💬 Ask me anything about tech & anime except HTML😬
+- 🔭 A ***Google Cloud developer*** and currently doing open source
+- 🥅 2020 Goals: Contribute more to **Open Source** projects
+- ⚡ Fun fact: I love to play ***Guitar***
+- 💬 Ask me anything about **Tech &** ***Anime*** except HTML😬
 
 <br />
 
