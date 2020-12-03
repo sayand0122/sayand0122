@@ -26,6 +26,8 @@
 [<img align="left" alt="sayan-dutta-117a8a1a8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_isayandutta_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Duke_0122 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="sayan25 | CodeChef" width="22px" src="https://avatars1.githubusercontent.com/u/11960354?s=400&u=a77c97db3237e61ac0548a9d887f35c74c7e595e&v=4" />][codechef]
+[<img align="left" alt="Duke0122 | Codeforces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][codeforces]
 
 <br />
 <br />
@@ -84,3 +86,5 @@
 [instagram]: https://www.instagram.com/_isayandutta_/
 [linkedin]: https://www.linkedin.com/in/sayan-dutta-117a8a1a8/
 [hackerrank]: https://www.hackerrank.com/Duke_0122/
+[codeforces]: https://codeforces.com/profile/Duke0122
+[codechef]: https://www.codechef.com/users/sayan25
