@@ -5,6 +5,7 @@
 </div>
 
 </br>
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
 </br>
 </br>
 
@@ -53,6 +54,12 @@
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
+
+<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/photoshop/photoshop-line.svg" />
   
 [<img align="left" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>]: <>
 
