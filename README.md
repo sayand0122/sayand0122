@@ -37,8 +37,6 @@
 
 ## Languages and Tools:
 
-<img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/c-programming.png"/>
-
 <img align="left" alt="cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 <img  align="left" width="45px" src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
@@ -60,10 +58,8 @@
 <img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/photoshop/photoshop-line.svg" />
-  
-[<img align="left" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>]: <>
 
-<img align="left" alt="SQL" width="70px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />
+<img align="left" alt="SQL" width="75px" src="https://pbs.twimg.com/profile_images/1105378972156649472/9W16lxHj_400x400.pngg" />
 
 <br />
 <br />
