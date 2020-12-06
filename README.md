@@ -53,13 +53,13 @@
 
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
+<img align="left" alt="Ubuntu" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
 
-<img align="left" alt="HTML5" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/photoshop/photoshop-line.svg" />
+[<img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/photoshop/photoshop-line.svg" />]: <>
 
-<img align="left" alt="SQL" width="75px" src="https://pbs.twimg.com/profile_images/1105378972156649472/9W16lxHj_400x400.pngg" />
+<img align="left" alt="Cloud" width="55px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
 
 <br />
 <br />
@@ -67,6 +67,7 @@
 
 
 <details>
+   <br />
    <summary>:zap: GitHub Stats</summary>
 
   ![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=false)
