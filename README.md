@@ -63,7 +63,7 @@
   
 [<img align="left" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>]: <>
 
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
+<img align="left" alt="SQL" width="70px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />
 
 <br />
 <br />
