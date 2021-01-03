@@ -12,7 +12,7 @@
 
 ## I'm a Student and currently learning EVERYTHING 😂
 
-- 🔭 A ***Google Cloud developer*** and currently doing   open   source
+- 🔭 A ***Tech Enthusiast*** and currently doing   open   source
 
 - 🥅 2021 Goals: Contribute more to ***Open Source*** projects
 
