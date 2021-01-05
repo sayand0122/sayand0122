@@ -77,7 +77,7 @@
 
 </details>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
 ![](https://komarev.com/ghpvc/?username=sayand0122&color=brightgreen)
 
 <br />
