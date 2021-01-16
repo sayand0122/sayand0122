@@ -12,9 +12,9 @@
 
 ## I'm a Student and currently learning EVERYTHING 😂
 
-- 🔭 A ***Tech  &&  Space  Enthusiast*** and currently doing   open   source
+- 🔭 A ***Tech  &&  Space  Enthusiast*** and currently doing   open   source contribution
 
-- 🥅 2021 Goals: Contribute more to ***Open Source*** projects
+- 🥅 2021 Goals: Contribute more to ***Open Source*** projects and learn anything that interests me
 
 - ⚡ Fun fact: I love to play ***Guitar***
 
