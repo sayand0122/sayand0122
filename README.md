@@ -67,13 +67,9 @@
 
 
 <br />
-<details>
-   <br />
- <summary>:zap: <b>GitHub Stats</b></summary>
+## GitHub Stats
 
-  ![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=false)
-
-</details>
+![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=false)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
 ![](https://komarev.com/ghpvc/?username=sayand0122&color=brightgreen)
