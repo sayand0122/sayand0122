@@ -65,9 +65,7 @@
 <br />
 <br />
 
-
-<br />
-## GitHub Stats
+## GitHub Stats:
 
 ![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=false)
 
