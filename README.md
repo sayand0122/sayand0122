@@ -6,6 +6,7 @@
 
 </br>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
+
 </br>
 </br>
 
@@ -62,6 +63,7 @@
 
 <img align="left" alt="Cloud" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
 
+<br />
 <br />
 <br />
 
