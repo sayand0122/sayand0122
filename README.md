@@ -60,9 +60,6 @@
 
 <img align="left" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 
-<br />
-<br />
-
 <img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca0eb3d131d4586e62eb5ed31a2cde56035adc8d/icons/photoshop/photoshop-line.svg" />
 
 <img align="left" alt="Cloud" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
