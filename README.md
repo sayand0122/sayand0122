@@ -1,25 +1,20 @@
-## Hi there, I'm Sayan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+## Hi there, I'm Sayan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sayand0122/sayand0122/blob/master/assets/intro.gif">
 </div>
 
 </br>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2428268/screenshots/14157596/media/8915b8e967eb6c43b9695f3b03803430.gif">
-
-</br>
-</br>
-
 
 ## I'm a Student and currently learning EVERYTHING 😂
 
-- 🔭 A ***Tech  &&  Space  Enthusiast*** and currently doing   open   source contribution
+-   🔭 A **_Tech && Space Enthusiast_** and currently doing open source contribution
 
-- 🥅 2021 Goals: Contribute more to ***Open Source*** projects and learn anything that interests me
+-   🥅 2021 Goals: Contribute more to **_Open Source_** projects and learn anything that interests me
 
-- ⚡ Fun fact: I love to play ***Guitar***
+-   ⚡ Fun fact: I love to play **_Guitar_**
 
-- 💬 Ask me anything about ***Tech & Anime*** except HTML😬
+-   💬 Ask me anything about **_Tech & Anime_** except HTML😬
 
 <br />
 
@@ -81,7 +76,6 @@
 [![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
 
 <br/>
-
 
 [twitter]: https://twitter.com/SayanOtaku
 [instagram]: https://www.instagram.com/_isayandutta_/
