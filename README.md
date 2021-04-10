@@ -37,7 +37,7 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="cpp" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="cpp" width="40px" src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" />
  
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/python.png"/>
 
@@ -45,9 +45,9 @@
 
 <img align="left" alt="NestJS" width="40px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
 
-<img align="left" alt="SQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="45px" src="https://img.icons8.com/color/cpp/60/000000/sql.png" />
   
-<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="45px" src="https://img.icons8.com/color/cpp/60/000000/git.png" />
 
 <img align="left" alt="Ubuntu" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />
 
