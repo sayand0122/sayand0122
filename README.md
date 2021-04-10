@@ -4,7 +4,9 @@
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/sayand0122/sayand0122/blob/master/assets/intro.gif">
 </div>
 
-</br>
+<br />
+
+<br />
 
 ## I'm a Student and currently learning EVERYTHING 😂
 
@@ -16,10 +18,6 @@
 
 -   💬 Ask me anything about **_Tech & Anime_** except HTML😬
 
-<br />
-
-<br />
-
 <!---
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="30%" height="20%">-->
 
@@ -29,9 +27,6 @@
 [<img align="left" alt="Duke_0122 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" target="_blank" rel="noopener noreferrer"/>][hackerrank]
 [<img align="left" alt="sayan25 | CodeChef" width="22px" src="https://avatars1.githubusercontent.com/u/11960354?s=400&u=a77c97db3237e61ac0548a9d887f35c74c7e595e&v=4" target="_blank" rel="noopener noreferrer"/>][codechef]
 [<img align="left" alt="Duke0122 | Codeforces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" target="_blank" rel="noopener noreferrer"/>][codeforces]-->
-
-<br />
-<br />
 
 <br />
 
@@ -64,8 +59,7 @@
 <img align="left" alt="Cloud" width="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
 
 <br />
-<br />
-<br />
+
 
 ## GitHub Stats:
 
