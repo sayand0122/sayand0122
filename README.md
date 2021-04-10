@@ -46,6 +46,10 @@
 <img align="left" alt="NestJS" width="40px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
 
 <img align="left" alt="SQL" width="45px" src="https://img.icons8.com/color/cpp/60/000000/sql.png" />
+
+<img align="left" alt="postgres" width="45px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png" />
+
+<img align="left" alt="docker" width="45px" src="https://i.imgur.com/VyjCJuz.png" />
   
 <img align="left" alt="Git" width="45px" src="https://img.icons8.com/color/cpp/60/000000/git.png" />
 
@@ -68,7 +72,7 @@
 ![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=false)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
-![](https://komarev.com/ghpvc/?username=sayand0122&color=brightgreen)
+<!---![](https://komarev.com/ghpvc/?username=sayand0122&color=brightgreen)-->
 
 <br />
 
