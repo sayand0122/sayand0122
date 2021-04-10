@@ -20,14 +20,15 @@
 
 <br />
 
-<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="30%" height="20%">
+<!---
+<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="30%" height="20%">-->
 
-[<img align="left" alt="SayanOtaku | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" rel="noopener noreferrer" />][twitter]
+<!---[<img align="left" alt="SayanOtaku | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" rel="noopener noreferrer" />][twitter]
 [<img align="left" alt="sayan-dutta-117a8a1a8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" rel="noopener noreferrer"/>][linkedin]
 [<img align="left" alt="_isayandutta_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" rel="noopener noreferrer"/>][instagram]
 [<img align="left" alt="Duke_0122 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" target="_blank" rel="noopener noreferrer"/>][hackerrank]
 [<img align="left" alt="sayan25 | CodeChef" width="22px" src="https://avatars1.githubusercontent.com/u/11960354?s=400&u=a77c97db3237e61ac0548a9d887f35c74c7e595e&v=4" target="_blank" rel="noopener noreferrer"/>][codechef]
-[<img align="left" alt="Duke0122 | Codeforces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" target="_blank" rel="noopener noreferrer"/>][codeforces]
+[<img align="left" alt="Duke0122 | Codeforces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" target="_blank" rel="noopener noreferrer"/>][codeforces]-->
 
 <br />
 <br />
