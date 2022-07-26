@@ -64,20 +64,7 @@
 
 <br />
 
-## GitHub Stats:
 
-![Sayan's github stats](https://github-readme-stats-vert-phi.vercel.app/api?username=sayand0122&show_icons=true&theme=synthwave&count_private=false)
-
-![](https://visitor-badge.glitch.me/badge?page_id=sayand0122.visitor-badge)
-<!---![](https://komarev.com/ghpvc/?username=sayand0122&color=brightgreen)-->
-
-<br />
-
-## Spotify Playing 🎧
-
-[![Spotify](https://novatorem-wine-six.vercel.app/api/spotify)](https://open.spotify.com/user/Duke)
-
-<br/>
 
 [twitter]: https://twitter.com/SayanOtaku
 [instagram]: https://www.instagram.com/_isayandutta_/
