@@ -12,8 +12,6 @@
 
 -   🔭 A **_Tech && Space Enthusiast_** and currently doing open source contribution
 
--   🥅 2021 Goals: Contribute more to **_Open Source_** projects and learn anything that interests me
-
 -   ⚡ Fun fact: I love to play **_Guitar_**
 
 -   💬 Ask me anything about **_Tech & Anime_** except HTML😬
