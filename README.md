@@ -67,12 +67,4 @@ Experiments using TinyLlama, Mistral, and prompt engineering for automation syst
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayand0122&layout=compact&theme=github_dark)
 
----
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/sayan-dutta-117a8a1a8/)  
-[GitHub](https://github.com/sayand0122)  
-[HackerRank](https://www.hackerrank.com/Duke_0122/)  
-[Codeforces](https://codeforces.com/profile/Duke0122)  
-[CodeChef](https://www.codechef.com/users/sayan25)
